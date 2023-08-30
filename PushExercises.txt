@@ -1,3 +1,5 @@
+# This is just an example list. You should put your own exercises in here.
+
 Pushups
 Dips
 Barbell shoulder press
