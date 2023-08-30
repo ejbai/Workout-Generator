@@ -1,3 +1,5 @@
+# You will need to change the path in lines 9, 21, and 33
+
 import random
 
 
