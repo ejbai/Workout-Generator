@@ -4,7 +4,7 @@ import random
 # Create push array
 
 pushArray = []
-pushFile = open("C:/Users/flybr/Desktop/Python Projects/WorkoutGenerator/PushExercises.txt")
+pushFile = open("Path/to/push/exercises") # Input your path here
 
 x = 0   # Start the count for the index of the array in the following loop
 for currentLine in pushFile:
@@ -16,7 +16,7 @@ for currentLine in pushFile:
 # Create pull array
 
 pullArray = []
-pullFile = open("C:/Users/flybr/Desktop/Python Projects/WorkoutGenerator/PullExercises.txt")
+pullFile = open("Path/to/pull/exercises") # Input your path here
 
 x = 0   # Start the count for the index of the array in the following loop
 for currentLine in pullFile:
@@ -28,7 +28,7 @@ for currentLine in pullFile:
 # Create leg array
 
 legArray = []
-legFile = open("C:/Users/flybr/Desktop/Python Projects/WorkoutGenerator/LegExercises.txt")
+legFile = open("Path/to/leg/exercises") # Input your path here
 
 x = 0   # Start the count for the index of the array in the following loop
 for currentLine in legFile:
